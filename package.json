@@ -1,11 +1,8 @@
 {
   "name": "font-awesome5-strip",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lightweight Font Awesome 5 css file generator with some icons for reduce size",
   "main": "index.js",
-  "scripts": {
-    "strip": "node index.js >fa5.min.css"
-  },
   "keywords": [
     "font-awesome",
     "icon",
