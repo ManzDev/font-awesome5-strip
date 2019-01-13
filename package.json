@@ -1,15 +1,21 @@
 {
   "name": "font-awesome5-strip",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lightweight Font Awesome 5 css file generator with some icons for reduce size",
   "main": "index.js",
   "keywords": [
     "font-awesome",
+    "font-awesome-5",
     "icon",
     "icons",
     "reduce"
   ],
   "author": "Manz",
+  "homepage": "https://github.com/ManzDev/font-awesome5-strip",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManzDev/font-awesome5-strip.git"
+  },
   "license": "MIT",
   "bin": {
     "font-awesome5-strip": "./index.js"
